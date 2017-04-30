@@ -9,7 +9,7 @@ A Calculator for the budget of Security System (CCTV components and parts). And 
 ![alt text](https://github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539272.png)
 </br>
 <br>
-![alt tag](https://github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539348.png)
+![alt tag](https://github.com/Yitian2003/Security-Budget-Calculator/master/Screenshot_1493539348.png)
 </br>
 <br>
 ![alt text](https://github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539354.png)
