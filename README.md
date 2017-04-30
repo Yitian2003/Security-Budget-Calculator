@@ -3,7 +3,7 @@
 A Calculator for the budget of Security System (CCTV components and parts). And then send the list of parts and total price to the email address
 
 <br>
-![alt text](https://raw.github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539394.png)
+![Settings Window](https://raw.github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539394.png)
 </br>
 <br>
 ![alt text](https://github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539272.png)
