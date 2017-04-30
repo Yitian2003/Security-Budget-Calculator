@@ -17,3 +17,6 @@ A Calculator for the budget of Security System (CCTV components and parts). And 
 <br>
 ![alt text](https://github.com/Yitian2003/Security-Budget-Calculator/blob/master/Screenshot_1493539368.png)
 </br>
+<br>
+![alt tag](https://github.com/Yitian2003/AimyPlus-App/blob/master/2017-02-13_23h25_40.gif)
+</br>
