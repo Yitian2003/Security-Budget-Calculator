@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Security System Budget Calculator</string>
+    <string name="cctv_system">CCTV System</string>
+    <string name="alarm_system">Alarm System</string>
+    <string name="cameras">Camera(s)</string>
+    <string name="switch_">Switch(es)</string>
+    <string name="freight_fee">Freight Fee</string>
+    <string name="mount_bracket">Mount Bracket(s)</string>
+    <string name="cable_accessaries">Cable and Accessaries</string>
+    <string name="total">Total</string>
+    <string name="include_gst">Inc GST</string>
+    <string name="exclude_gst">Exc GST</string>
+    <string name="nvr">Network Video Recorder(s)</string>
+    <string name="hdd">Surveillance HDD(s)</string>
+    <string name="port4">4 Chans</string>
+    <string name="port8">8 Chans</string>
+    <string name="port16">16 Chans</string>
+    <string name="port32">32 Chans</string>
+    <string name="tb2">2 TB</string>
+    <string name="tb3">3 TB</string>
+    <string name="tb4">4 TB</string>
+    <string name="tb6">6 TB</string>
+    <string name="cctv_budget">CCTV Budget</string>
+    <string name="ds_2cd3t36wd_i8">DS-2CD3T36WD-I8</string>
+    <string name="ds_2cd3336wd_i">DS-2CD3336WD-I</string>
+    <string name="ds_2cd3345f_i">DS-2CD3345F-I</string>
+    <string name="ds_2cd3345_i">DS-2CD3345-I</string>
+</resources>

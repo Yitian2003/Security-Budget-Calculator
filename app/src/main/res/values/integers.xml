@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="ipc1_price">200</integer>
+    <integer name="ipc2_price">160</integer>
+    <integer name="ipc3_price">180</integer>
+    <integer name="ipc4_price">160</integer>
+    <integer name="port4_price">80</integer>
+    <integer name="port8_price">200</integer>
+    <integer name="port16_price">240</integer>
+    <integer name="port32_price">300</integer>
+    <integer name="tb2_price">14375</integer>
+    <integer name="tb3_price">18975</integer>
+    <integer name="tb4_price">25185</integer>
+    <integer name="tb6_price">45885</integer>
+    <integer name="switch_price">80</integer>
+    <integer name="freight_unit_price">30</integer>
+    <integer name="bracket_price">20</integer>
+
+</resources>
